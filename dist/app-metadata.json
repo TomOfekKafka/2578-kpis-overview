@@ -1,0 +1,4 @@
+{
+  "description": "A financial KPIs dashboard showing Revenue, Expenses, Net Income, and Gross Margin aggregated by month, quarter, or year with trend charts and period breakdown table.",
+  "icon_url": "app-icon.svg"
+}

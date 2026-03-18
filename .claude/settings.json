@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "datarails": {
+      "type": "sse",
+      "url": "https://mcp-poc-tom.azurewebsites.net/mcp-sse/sse",
+      "headers": {
+        "X-Session-Id": "${DR_SESSION_ID}",
+        "X-Csrf-Token": "${DR_CSRF_TOKEN}",
+        "X-Domain": "${DR_DOMAIN}"
+      }
+    }
+  }
+}
